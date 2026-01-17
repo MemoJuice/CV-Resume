@@ -2,22 +2,22 @@ function Skills() {
   return (
     <div className="min-h-screen">
       <div>
-        <p className="text-white font-semibold text-center text-6xl mb-15 text-shadow-transparent">
+        <p className="text-white font-semibold text-center text-6xl mb-15 text-shadow-transparent font-sans">
           Skills
         </p>
       </div>
       <div>
         <div className=" bg-linear-to-r from-green-500 via-yellow-300 to-yellow-600 bg-clip-text text-transparent font-semibold text-2xl flex flex-wrap gap-5 text-center items-center justify-center">
-          <div className="border-1 border-white px-5 py-2  w-fill">React</div>
-          <div className="border-1 border-white px-5 py-2 w-fill">
+          <div className="border-1 border-white px-5 py-2  w-fill font-sans">React</div>
+          <div className="border-1 border-white px-5 py-2 w-fill font-sans">
             JavaScript
           </div>
-          <div className="border-1 border-white px-5 py-2 w-fill">
+          <div className="border-1 border-white px-5 py-2 w-fill font-sans">
             Tailwind CSS
           </div>
-          <div className="border-1 border-white px-5 py-2 w-fill">Node.js</div>
-          <div className="border-1 border-white px-5 py-2 w-fill">MongoDB</div>
-          <div className="border-1 border-white px-5 py-2 w-fill">Git</div>
+          <div className="border-1 border-white px-5 py-2 w-fill font-sans">Node.js</div>
+          <div className="border-1 border-white px-5 py-2 w-fill font-sans">MongoDB</div>
+          <div className="border-1 border-white px-5 py-2 w-fill font-sans">Git</div>
         </div>
         <div className="mt-15 flex justify-center">
           <svg

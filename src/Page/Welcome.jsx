@@ -1,13 +1,13 @@
 export default function TextName() {
   return (
     <div>
-      <h1 className="text-6xl font-bold text-center mt-30 bg-linear-to-r from-purple-400 via-pink-500 to-red-500 bg-clip-text text-transparent">
+      <h1 className="text-6xl font-bold text-center mt-30 bg-linear-to-r from-purple-400 via-pink-500 to-red-500 bg-clip-text text-transparent font-sans">
         {" "}
         Hi I'm Worapon.
       </h1>
       <p
         className=" text-center mt-4 mx-auto bg-gradient-to-r from-green-400 via-blue-500 to-purple-500 bg-clip-text text-transparent
-      text-4xl py-10 lg:w-2/3 font-light leading-relaxed"
+      text-4xl py-10 lg:w-2/3 font-light leading-relaxed font-sans"
       >
         <b className="font-bold text-white">Hello my name is EM</b> Although I did not graduate in a technology-related
         field, I have always had a strong interest in technology. Therefore, I

@@ -6,10 +6,10 @@ export default function Present() {
           <img src="https://img.freepik.com/vecteurs-libre/degrade-illustration-oiseau-colore_343694-1741.jpg"
           className="object-cover w-full h-full rounded-full"/>
         </div>
-        <p className="text-white font-bold text-center text-8xl my-15 mb-15">
+        <p className="text-white font-bold text-center text-8xl my-15 mb-15 font-sans">
           Profilo
         </p>
-        <div className="bg-linear-to-l from-green-400 via-50% via-green-500 to-yellow-600 bg-clip-text text-transparent font-bold text-8xl text-center">
+        <div className="bg-linear-to-l from-green-400 via-50% via-green-500 to-yellow-600 bg-clip-text text-transparent font-bold text-8xl text-center font-sans">
           Worapon Choonuansri
         </div>
       </div>
