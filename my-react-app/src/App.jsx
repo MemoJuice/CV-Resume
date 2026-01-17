@@ -1,22 +1,18 @@
-import TextName from "./Page/Present";
+import Present from "./Page/Present";
 import Welcome from "./Page/Welcome";
+import Skills from "./Page/Skills";
 // import { resumeData } from "./views/resumeData";
 import { FaGithub, FaEnvelope, FaPhoneAlt } from "react-icons/fa";
 
 function App() {
   return (
   <div className=" min-h-screen bg-black">
-    <TextName />
+    <Present />
     <Welcome />
+    <Skills />
   </div>
   )
 }
-
-
-
-
-
-
 export default App;
 
 

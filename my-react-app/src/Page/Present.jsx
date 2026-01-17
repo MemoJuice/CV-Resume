@@ -1,4 +1,4 @@
-export default function TextName() {
+export default function Present() {
   return (
     <div className="min-h-screen bg-black border-10 border-purple-600 p-4 md:p-4 font-sans">
       <div>
