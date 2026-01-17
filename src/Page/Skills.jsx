@@ -2,7 +2,7 @@ function Skills() {
   return (
     <div className="min-h-screen">
       <div>
-        <p className="text-white font-semibold text-center text-4xl mb-15 text-shadow-transparent">
+        <p className="text-white font-semibold text-center text-6xl mb-15 text-shadow-transparent">
           Skills
         </p>
       </div>
@@ -36,9 +36,9 @@ function Skills() {
                 x2="0%"
                 y2="100%"
               >
-                <stop offset="25%" stopColor="#d6b617" /> {/* สีส้มพีช */}
-                <stop offset="50%" stopColor="#1e9892" /> {/* สีชมพูม่วง */}
-                <stop offset="100%" stopColor="#9B7CFF" /> {/* สีม่วงฟ้า */}
+                <stop offset="25%" stopColor="#ffffff" /> {/* สีส้มพีช */}
+                <stop offset="50%" stopColor="#ffffff" /> {/* สีชมพูม่วง */}
+                <stop offset="100%" stopColor="#ffffff" /> {/* สีม่วงฟ้า */}
               </linearGradient>
 
               {/* หัวลูกศร (Arrowhead) */}
@@ -51,7 +51,7 @@ function Skills() {
                 markerHeight="6"
                 orient="auto-start-reverse"
               >
-                <path d="M 0 0 L 10 7 L 0 10 z" fill="#8480ed" />
+                <path d="M 0 0 L 10 7 L 0 10 z" fill="#ffffff" />
               </marker>
             </defs>
 
